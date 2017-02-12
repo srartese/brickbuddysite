@@ -1,0 +1,7 @@
+body {background-image: url("../brickwall/brickwall.png"); background-repeat: repeat;}
+
+.imgbrick {height: 80%; width: 80%;}
+
+.story {	padding-top: 60px;}
+.inspiration {width:96%; text-align: justify;}
+.top {background-color: #ff22a8; top: 0;}
